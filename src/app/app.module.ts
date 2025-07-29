@@ -7,7 +7,7 @@ import { DashboardComponent } from './Recipes/dashboard/dashboard.component';
 import { HttpClientModule } from '@angular/common/http';
 import { RecipesDetailComponent } from './Recipes/recipes-detail/recipes-detail.component';
 import { AddRecipeComponent } from './Recipes/add-recipe/add-recipe.component';
-import { ReactiveFormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -20,7 +20,8 @@ import { ReactiveFormsModule } from '@angular/forms';
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

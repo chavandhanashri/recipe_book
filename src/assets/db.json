@@ -14,6 +14,7 @@
         "Salt",
         "Pepper"
       ],
+      "category": "Non-veg",
       "steps": [
         "Boil spaghetti according to package instructions.",
         "Sauté onions and garlic in olive oil.",
@@ -37,6 +38,7 @@
         "Ginger",
         "Sesame oil"
       ],
+      "category": "Veg",
       "steps": [
         "Chop all vegetables into bite-sized pieces.",
         "Heat sesame oil in a wok.",
@@ -69,6 +71,7 @@
         "Flip and cook the other side until golden brown.",
         "Serve with maple syrup."
       ],
+      "category": "Veg",
       "imageUrl": "https://cdn.pixabay.com/photo/2023/02/24/21/11/pancake-7811889_1280.jpg"
     },
     {
@@ -87,6 +90,7 @@
         "lemon",
         "salt"
       ],
+      "category": "Non-veg",
       "steps": [
         "Let it simmer for 15 minutes.",
         "Add tomatoes and cook till soft.",
@@ -100,7 +104,7 @@
       "title": "Margherita Pizza",
       "description": "Loved by everyone.",
       "imageUrl": "https://media.istockphoto.com/id/451865971/photo/margherita-pizza.jpg?s=1024x1024&w=is&k=20&c=gwCqEjEwo3d22hhjTBZOgUfvyhWZFtZ6bxvun7fw_GY=",
-      "category": "Mexican",
+      "category": "Veg",
       "ingredients": [
         "onion",
         "garlic",
@@ -124,7 +128,7 @@
       "title": "Chicken Biryani",
       "description": "Loved by everyone.",
       "imageUrl": "https://media.istockphoto.com/id/509568543/photo/indian-food.jpg?s=1024x1024&w=is&k=20&c=XNn5yNYU1yNo8smbLLK7Klef7oV7e1ZBJTOqwWxlZUU=",
-      "category": "American",
+      "category": "Non-veg",
       "ingredients": [
         "sauce",
         "spices",
@@ -148,7 +152,7 @@
       "title": "Paneer Tikka",
       "description": "Delicious and flavorful.",
       "imageUrl": "https://media.istockphoto.com/id/1474136049/photo/close-up-image-of-paneer-kebabs-marinated-curd-cheese-pieces-on-metal-skewers-red-onion-and.jpg?s=1024x1024&w=is&k=20&c=bSKMtoQMdFNci5nQSYhYJPTQ7OuU9y9P2iq2RwVXLDs=",
-      "category": "Mexican",
+      "category": "Veg",
       "ingredients": [
         "tomato",
         "chicken",
@@ -173,7 +177,7 @@
       "title": "Tacos",
       "description": "Delicious and flavorful.",
       "imageUrl": "https://media.istockphoto.com/id/185224373/photo/spread-of-mexican-tacos-with-all-the-fixings.jpg?s=1024x1024&w=is&k=20&c=389cIoA4Fd_ZUfRDg0KOg728-w5K5YEFWxKiQpMsbe0=",
-      "category": "Mexican",
+      "category": "Veg",
       "ingredients": [
         "butter",
         "spices",
@@ -198,7 +202,7 @@
       "title": "Pad Thai",
       "description": "Loved by everyone.",
       "imageUrl": "https://media.istockphoto.com/id/1262880166/photo/world-famous-freshly-stir-fried-cooked-thai-recipe-of-prawn-pad-thai-noodles-on-a-round.jpg?s=1024x1024&w=is&k=20&c=e0aYCmOkFpjItzUDuxYakk9eS39Zd71xLOmsh4jeZ4Q=",
-      "category": "Italian",
+      "category": "Non-veg",
       "ingredients": [
         "salt",
         "noodles",
@@ -223,7 +227,7 @@
       "title": "Cheeseburger",
       "description": "A classic favorite.",
       "imageUrl": "https://media.istockphoto.com/id/1471844577/photo/delicious-double-burger-with-french-fries-and-vegetables-on-wooden-cutting-board.jpg?s=1024x1024&w=is&k=20&c=Ogw96zOARKqnkTeLkiq0hOT96lSJKLOksG3tYjAm4Kw=",
-      "category": "Mexican",
+      "category": "Non-veg",
       "ingredients": [
         "yogurt",
         "cream",
@@ -246,7 +250,7 @@
       "title": "Pasta Alfredo",
       "description": "Loved by everyone.",
       "imageUrl": "https://media.istockphoto.com/id/1181456803/photo/creamy-spaghetti-with-mushroom-creamy-pasta-with-mushroom-spaghetti-pasta-and-mushroom.jpg?s=1024x1024&w=is&k=20&c=44ydhgpx7fydEjlouflrt6vShY34KitBYepivNt0PRU=",
-      "category": "Indian",
+      "category": "Non-veg",
       "ingredients": [
         "pepper",
         "butter",
@@ -269,7 +273,7 @@
       "title": "Veg Fried Rice",
       "description": "Easy to make and tasty.",
       "imageUrl": "https://media.istockphoto.com/id/1292617507/photo/tasty-veg-schezwan-fried-rice-served-in-bowl-over-a-rustic-wooden-background-indian-cuisine.jpg?s=1024x1024&w=is&k=20&c=60YzuiCFBz2QB7mser7keOO7Z4LsBNHFsKkLy_TyRNY=",
-      "category": "Chinese",
+      "category": "Veg",
       "ingredients": [
         "oil",
         "chicken",
@@ -293,7 +297,7 @@
       "title": "Manchurian",
       "description": "Rich in taste and perfect for dinner.",
       "imageUrl": "https://media.istockphoto.com/id/2204824949/photo/vegetable-manchurian-is-a-spicy-indo-chinese-dish-featuring-deep-fried-vegetable-balls-tossed.jpg?s=1024x1024&w=is&k=20&c=UFKL8XFHQb7bL7_kT7boDACCaE8irifEcP1FCOxmVsU=",
-      "category": "Italian",
+      "category": "Non-veg",
       "ingredients": [
         "bread",
         "sauce",
@@ -318,7 +322,7 @@
       "title": "Ramen",
       "description": "Easy to make and tasty.",
       "imageUrl": "https://media.istockphoto.com/id/697120198/photo/kimchee-ramen.jpg?s=1024x1024&w=is&k=20&c=GvHLHxEsHmG-1gfw-Z4DvHUFiu91Nb-k7j5KhN5NUD0=",
-      "category": "American",
+      "category": "Non-veg",
       "ingredients": [
         "sauce",
         "cream",
@@ -340,7 +344,7 @@
       "title": "Masala Dosa",
       "description": "Loved by everyone.",
       "imageUrl": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "category": "Mexican",
+      "category": "Veg",
       "ingredients": [
         "vegetables",
         "tomato",
@@ -363,7 +367,7 @@
       "title": "Chole Bhature",
       "description": "A classic favorite.",
       "imageUrl": "https://media.istockphoto.com/id/2203561604/photo/delicious-food-chole-bhature.jpg?s=1024x1024&w=is&k=20&c=468urZjDSjNHswpODZZJtdPlWGswcCpYl6b6sieKI2E=",
-      "category": "Mexican",
+      "category": "Veg",
       "ingredients": [
         "cream",
         "bread",
@@ -385,7 +389,7 @@
       "title": "Sushi Rolls",
       "description": "Ideal for lunch or party.",
       "imageUrl": "https://media.istockphoto.com/id/2203907253/photo/variety-of-sushi-maki-plate-with-tuna-and-salmon-and-avocado-dynamite-roll-at-asian.jpg?s=1024x1024&w=is&k=20&c=YpG_j9UBzUVDL6TR1i0Pq85tcUUtRZfU4RtRJ9zscPg=",
-      "category": "Italian",
+      "category": "Veg",
       "ingredients": [
         "salt",
         "vegetables",
@@ -410,7 +414,7 @@
       "title": "Spring Rolls",
       "description": "A classic favorite.",
       "imageUrl": "https://media.istockphoto.com/id/1430066729/photo/fried-spring-rolls-with-sweet-chili-sauce-and-lime-on-plate.jpg?s=1024x1024&w=is&k=20&c=baVWl5-Otku2SkDxHEGoL3G7kR0Tm7zCoy7Ou11_KoA=",
-      "category": "American",
+      "category": "Veg",
       "ingredients": [
         "spices",
         "bread",
@@ -433,7 +437,7 @@
       "title": "Shawarma",
       "description": "Easy to make and tasty.",
       "imageUrl": "https://media.istockphoto.com/id/1336420314/photo/shawarma-an-arab-dish-with-meat-cut-into-thin-slices-stacked-in-a-cone-like-shape-and-roasted.jpg?s=1024x1024&w=is&k=20&c=OdueIaANz24q5VMyRDDtl6hRe41ItcDmpJYoRoGNAC4=",
-      "category": "Chinese",
+      "category": "Non-veg",
       "ingredients": [
         "chicken",
         "yogurt",
@@ -457,7 +461,7 @@
       "title": "Lasagna",
       "description": "Delicious and flavorful.",
       "imageUrl": "https://media.istockphoto.com/id/1303741768/photo/italian-lasagna-with-tomato-sauce-and-cheese-served-with-tomatoes-and-spinach-light-concrete.jpg?s=1024x1024&w=is&k=20&c=qVsGH2bIn_r3zOFSH9zOzmjLNiCf8dmYTMpcpHarnYM=",
-      "category": "American",
+     "category": "Non-veg",
       "ingredients": [
         "cream",
         "pepper",
@@ -481,7 +485,7 @@
       "title": "Tom Yum Soup",
       "description": "Delicious and flavorful.",
       "imageUrl": "https://media.istockphoto.com/id/1172903419/photo/thailands-famous-rich-red-coconut-milk-based-delicious-tom-yam-kung-soup-in-a-bowl-on-an.jpg?s=1024x1024&w=is&k=20&c=zmZAe6Xiz63FQPH-_yZBIx7sF7hpJVZKUbSpG-f3d5M=",
-      "category": "American",
+      "category": "Non-veg",
       "ingredients": [
         "cream",
         "noodles",
@@ -503,7 +507,7 @@
       "title": "Fish Curry",
       "description": "Loved by everyone.",
       "imageUrl": "https://media.istockphoto.com/id/1091567206/photo/srilanka-spicy-fish-curry.jpg?s=1024x1024&w=is&k=20&c=Sj26Nq5Z2iVDN7xdglA4-HGd7sn4MNlbsUZyDM8K3Fc=",
-      "category": "Italian",
+      "category": "Non-veg",
       "ingredients": [
         "rice",
         "bread",
@@ -527,7 +531,7 @@
       "title": "Falafel Wrap",
       "description": "A classic favorite.",
       "imageUrl": "https://media.istockphoto.com/id/1139093193/photo/tortilla-wrap-with-falafel-and-fresh-salad-vegan-tacos-vegetarian-healthy-food.jpg?s=1024x1024&w=is&k=20&c=Ni1OvClIJ1qnEeCswj_1TeHV0or58P73pgkwIw6hsFo=",
-      "category": "Chinese",
+     "category": "Veg",
       "ingredients": [
         "oil",
         "tomato",
@@ -549,7 +553,7 @@
       "title": "Aloo Paratha",
       "description": "Easy to make and tasty.",
       "imageUrl": "https://media.istockphoto.com/id/1279134709/photo/image-of-metal-tray-with-aloo-paratha-pile-topped-with-red-onion-rings-and-sprinkle-of.jpg?s=1024x1024&w=is&k=20&c=UFLE_PNGPe83flTXa-r-ZnIxysesQZk5cxlUkq3H1o0=",
-      "category": "Italian",
+      "category": "Veg",
       "ingredients": [
         "sauce",
         "tomato",
@@ -571,7 +575,7 @@
       "title": "Chicken Wings",
       "description": "Delicious and flavorful.",
       "imageUrl": "https://media.istockphoto.com/id/1451323978/photo/baked-chicken-wings-with-sweet-chili-sauce-in-a-plate-black-background-top-view.jpg?s=1024x1024&w=is&k=20&c=84itiXfZjYDXiTRbYNcs7clY8UaBca1av2FMvl3T6jU=",
-      "category": "Thai",
+      "category": "Non-veg",
       "ingredients": [
         "butter",
         "onion",
@@ -593,7 +597,7 @@
       "title": "Pav Bhaji",
       "description": "Easy to make and tasty.",
       "imageUrl": "https://media.istockphoto.com/id/1327433011/photo/pav-bhaji-indian-street-food-bharuch-gujarat-india.jpg?s=1024x1024&w=is&k=20&c=yqNWDvfbfgglUykVFxIZlz3iftt8Em8cA3BSuKoAyV4=",
-      "category": "Mexican",
+      "category": "Veg",
       "ingredients": [
         "butter",
         "garlic",
@@ -618,7 +622,7 @@
       "title": "Caesar Salad",
       "description": "Delicious and flavorful.",
       "imageUrl": "https://media.istockphoto.com/id/1338803225/photo/chicken-caesar-salad-with-the-classic-dressing-being-poured-and-croutons.jpg?s=1024x1024&w=is&k=20&c=sZd-Pd8lfnzN9gqZr6yi7GIjTu5Veif--VsRawe1e_I=",
-      "category": "Thai",
+      "category": "Veg",
       "ingredients": [
         "cheese",
         "pepper",
@@ -640,7 +644,7 @@
       "title": "Grilled Sandwich",
       "description": "Rich in taste and perfect for dinner.",
       "imageUrl": "https://media.istockphoto.com/id/692221258/photo/panini-with-tomato-pesto-and-mozzarella.jpg?s=1024x1024&w=is&k=20&c=zAiqB19V2OfwMdAjegtoHG4LjD4cDhVMnoxDE0EbWjc=",
-      "category": "Italian",
+      "category": "Veg",
       "ingredients": [
         "butter",
         "onion",
@@ -665,7 +669,7 @@
       "title": "Veg Pulao",
       "description": "Easy to make and tasty.",
       "imageUrl": "https://media.istockphoto.com/id/2212836819/photo/indian-veg-biryani-veg-pulav-indian-vegetable-pulav-biriyani-vegetable-biriyani-served-in-a.jpg?s=1024x1024&w=is&k=20&c=csRuG2qb6UYNd7NQEDAe_T2xZw7hgRkHa2OQIsoE0aM=",
-      "category": "Indian",
+      "category": "Veg",
       "ingredients": [
         "paneer",
         "spices",
@@ -689,7 +693,7 @@
       "title": "Pesto Pasta",
       "description": "Loved by everyone.",
       "imageUrl": "https://media.istockphoto.com/id/1353758538/photo/image-of-metal-fork-twirling-pesto-spaghetti-held-in-hand-of-unrecognisable-person-pasta.jpg?s=1024x1024&w=is&k=20&c=AX3Nf2JjK85vzl3sMlYuM0H0efZBxol7xHO8ygmgS1w=",
-      "category": "Thai",
+     "category": "Veg",
       "ingredients": [
         "salt",
         "tomato",
@@ -713,7 +717,7 @@
       "title": "Dal Makhani",
       "description": "Delicious and flavorful.",
       "imageUrl": "https://media.istockphoto.com/id/1170374719/photo/dal-makhani-at-dark-background.jpg?s=1024x1024&w=is&k=20&c=FVifOSqCkW0GdMqUmgddvJ6xKd4F6touOC4gVfrVT5c=",
-      "category": "Thai",
+      "category": "Veg",
       "ingredients": [
         "cream",
         "cheese",
@@ -737,7 +741,7 @@
       "title": "Hot and Sour Soup",
       "description": "Delicious and flavorful.",
       "imageUrl": "https://images.unsplash.com/photo-1635315323938-4ef384d94a22?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "category": "Indian",
+      "category": "Veg",
       "ingredients": [
         "lemon",
         "rice",
@@ -759,7 +763,7 @@
       "title": "BBQ Chicken",
       "description": "Ideal for lunch or party.",
       "imageUrl": "https://media.istockphoto.com/id/157526986/photo/roast-chicken-on-the-bbq.jpg?s=1024x1024&w=is&k=20&c=MxRpVqJ3QpOdW0uYrWyRdSyEleUseG0EP2sa2Mi_YZE=",
-      "category": "Chinese",
+      "category": "Non-veg",
       "ingredients": [
         "noodles",
         "paneer",

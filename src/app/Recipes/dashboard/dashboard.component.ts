@@ -13,6 +13,9 @@ export class DashboardComponent implements OnInit {
   recipes: Recipe[] = [];
   recipes1: Recipe[] = [];
   recipes2: any;
+  categories: string[] = ['All','Veg', 'Non-veg'];
+  selectedCategory: string = 'All';
+  filteredRecipes: any;
 
   constructor(private recipeService: RecipesService,
     private router: Router
@@ -24,14 +27,23 @@ export class DashboardComponent implements OnInit {
     this.recipes1 = data
     this.recipes = [...this.recipes1, ...this.recipes2]
     console.log(this.recipes)
+          this.applyFilter()
+
   });
-  this.recipes = this.recipeService.getRecipesbylocalstrorage();
-  console.log(this.recipes)
   }
  navigateToRecipe(recipeId: number | undefined): void{
   this.router.navigate(['/recipe-detail',recipeId])
  }
  navigateToadd(){
   this.router.navigate(['/add-recipe'])
+ }
+ applyFilter(){
+  if(this.selectedCategory === 'All'){
+  this.filteredRecipes = [...this.recipes]
+  }else{
+  this.filteredRecipes = this.recipes.filter(recipe =>
+    recipe.category === this.selectedCategory
+  )
+  }
  }
 }

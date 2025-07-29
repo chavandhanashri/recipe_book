@@ -22,7 +22,8 @@ export class AddRecipeComponent implements OnInit {
     description: ['', Validators.required],
     ingredients: ['', Validators.required],
     steps: ['', Validators.required],
-    imageUrl: ['', Validators.required]
+    imageUrl: ['', Validators.required],
+    category: ['']
     })
   }
   addRecipe(){

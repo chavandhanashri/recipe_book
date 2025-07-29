@@ -1,0 +1,28 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-warning">
+  <div class="container-fluid">
+    <a class="navbar-brand" routerLink="/">🍽️ Recipe Book</a>
+    <div class="collapse navbar-collapse">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" (click)="navigateToadd()">Add Recipe</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="row gap-3 p-3">
+ <div class="card col-4" *ngFor="let recipe of recipes"  style="width: 18rem;" (click)="navigateToRecipe(recipe.id)">
+ <div>
+  <div class="card-body">
+      <h5 class="card-title">{{ recipe.title }}</h5>
+    <img [src]="recipe.imageUrl" [style.width.px]="200"
+     [style.height.px]="150" alt="{{ recipe.title }}">
+    <p class="card-text"> {{ recipe.description}}</p>
+  </div>
+ </div>
+</div> 
+</div>

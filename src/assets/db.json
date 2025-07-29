@@ -1,0 +1,781 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Spaghetti Bolognese",
+      "description": "A classic Italian pasta dish with rich meat sauce.",
+      "ingredients": [
+        "Spaghetti",
+        "Ground beef",
+        "Tomato sauce",
+        "Onion",
+        "Garlic",
+        "Olive oil",
+        "Salt",
+        "Pepper"
+      ],
+      "steps": [
+        "Boil spaghetti according to package instructions.",
+        "Sauté onions and garlic in olive oil.",
+        "Add ground beef and cook until browned.",
+        "Stir in tomato sauce and simmer for 15 minutes.",
+        "Season with salt and pepper.",
+        "Serve sauce over spaghetti."
+      ],
+      "imageUrl": "https://media.istockphoto.com/id/1410128919/photo/spaghetti-bolognaise-pasta-served-in-a-dish-isolated-on-dark-background-side-view-food.jpg?s=1024x1024&w=is&k=20&c=6wu7XqGhryeFWOn9N4vTMADatc0pufpBhWETaCyireY="
+    },
+    {
+      "id": 2,
+      "title": "Vegetable Stir Fry",
+      "description": "Quick and healthy stir-fried vegetables in soy sauce.",
+      "ingredients": [
+        "Broccoli",
+        "Carrot",
+        "Bell pepper",
+        "Soy sauce",
+        "Garlic",
+        "Ginger",
+        "Sesame oil"
+      ],
+      "steps": [
+        "Chop all vegetables into bite-sized pieces.",
+        "Heat sesame oil in a wok.",
+        "Add garlic and ginger and sauté briefly.",
+        "Add vegetables and stir-fry for 5–7 minutes.",
+        "Add soy sauce and mix well.",
+        "Serve hot with rice or noodles."
+      ],
+      "imageUrl": "https://media.istockphoto.com/id/588595864/photo/steaming-mixed-vegetables-in-the-wok-asian-style-cooking.jpg?s=1024x1024&w=is&k=20&c=zH5xP4FinKrvXMYDjFRlVZ5p3lX4F3VjccnajKw9lxw="
+    },
+    {
+      "id": 3,
+      "title": "Pancakes",
+      "description": "Fluffy breakfast pancakes served with maple syrup.",
+      "ingredients": [
+        "Flour",
+        "Milk",
+        "Egg",
+        "Baking powder",
+        "Sugar",
+        "Salt",
+        "Butter"
+      ],
+      "steps": [
+        "Mix dry ingredients in a bowl.",
+        "Whisk milk and egg together in another bowl.",
+        "Combine wet and dry ingredients to form batter.",
+        "Heat a pan and melt butter.",
+        "Pour batter into pan and cook until bubbles form.",
+        "Flip and cook the other side until golden brown.",
+        "Serve with maple syrup."
+      ],
+      "imageUrl": "https://cdn.pixabay.com/photo/2023/02/24/21/11/pancake-7811889_1280.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Butter Chicken",
+      "description": "Delicious and flavorful.",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1661419883163-bb4df1c10109?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "ingredients": [
+        "bread",
+        "yogurt",
+        "cream",
+        "vegetables",
+        "pepper",
+        "butter",
+        "onion",
+        "lemon",
+        "salt"
+      ],
+      "steps": [
+        "Let it simmer for 15 minutes.",
+        "Add tomatoes and cook till soft.",
+        "Chop the vegetables finely.",
+        "Heat oil in a pan and add onions.",
+        "Cook until golden brown."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Margherita Pizza",
+      "description": "Loved by everyone.",
+      "imageUrl": "https://media.istockphoto.com/id/451865971/photo/margherita-pizza.jpg?s=1024x1024&w=is&k=20&c=gwCqEjEwo3d22hhjTBZOgUfvyhWZFtZ6bxvun7fw_GY=",
+      "category": "Mexican",
+      "ingredients": [
+        "onion",
+        "garlic",
+        "sauce",
+        "cheese",
+        "chicken",
+        "oil",
+        "butter",
+        "cream"
+      ],
+      "steps": [
+        "Garnish and serve hot.",
+        "Marinate the main ingredient with spices.",
+        "Heat oil in a pan and add onions.",
+        "Chop the vegetables finely.",
+        "Cook until golden brown."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Chicken Biryani",
+      "description": "Loved by everyone.",
+      "imageUrl": "https://media.istockphoto.com/id/509568543/photo/indian-food.jpg?s=1024x1024&w=is&k=20&c=XNn5yNYU1yNo8smbLLK7Klef7oV7e1ZBJTOqwWxlZUU=",
+      "category": "American",
+      "ingredients": [
+        "sauce",
+        "spices",
+        "tomato",
+        "paneer",
+        "rice",
+        "onion",
+        "oil",
+        "butter"
+      ],
+      "steps": [
+        "Marinate the main ingredient with spices.",
+        "Mix all ingredients together.",
+        "Add tomatoes and cook till soft.",
+        "Cook until golden brown.",
+        "Let it simmer for 15 minutes."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Paneer Tikka",
+      "description": "Delicious and flavorful.",
+      "imageUrl": "https://media.istockphoto.com/id/1474136049/photo/close-up-image-of-paneer-kebabs-marinated-curd-cheese-pieces-on-metal-skewers-red-onion-and.jpg?s=1024x1024&w=is&k=20&c=bSKMtoQMdFNci5nQSYhYJPTQ7OuU9y9P2iq2RwVXLDs=",
+      "category": "Mexican",
+      "ingredients": [
+        "tomato",
+        "chicken",
+        "pepper",
+        "lemon",
+        "cream",
+        "vegetables",
+        "spices",
+        "sauce",
+        "onion"
+      ],
+      "steps": [
+        "Marinate the main ingredient with spices.",
+        "Cook until golden brown.",
+        "Mix all ingredients together.",
+        "Garnish and serve hot.",
+        "Let it simmer for 15 minutes."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Tacos",
+      "description": "Delicious and flavorful.",
+      "imageUrl": "https://media.istockphoto.com/id/185224373/photo/spread-of-mexican-tacos-with-all-the-fixings.jpg?s=1024x1024&w=is&k=20&c=389cIoA4Fd_ZUfRDg0KOg728-w5K5YEFWxKiQpMsbe0=",
+      "category": "Mexican",
+      "ingredients": [
+        "butter",
+        "spices",
+        "salt",
+        "pepper",
+        "garlic",
+        "paneer",
+        "chicken",
+        "lemon",
+        "rice"
+      ],
+      "steps": [
+        "Add tomatoes and cook till soft.",
+        "Garnish and serve hot.",
+        "Mix all ingredients together.",
+        "Let it simmer for 15 minutes.",
+        "Cook until golden brown."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Pad Thai",
+      "description": "Loved by everyone.",
+      "imageUrl": "https://media.istockphoto.com/id/1262880166/photo/world-famous-freshly-stir-fried-cooked-thai-recipe-of-prawn-pad-thai-noodles-on-a-round.jpg?s=1024x1024&w=is&k=20&c=e0aYCmOkFpjItzUDuxYakk9eS39Zd71xLOmsh4jeZ4Q=",
+      "category": "Italian",
+      "ingredients": [
+        "salt",
+        "noodles",
+        "onion",
+        "oil",
+        "tomato",
+        "spices",
+        "paneer",
+        "cheese",
+        "bread"
+      ],
+      "steps": [
+        "Chop the vegetables finely.",
+        "Garnish and serve hot.",
+        "Let it simmer for 15 minutes.",
+        "Marinate the main ingredient with spices.",
+        "Add tomatoes and cook till soft."
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Cheeseburger",
+      "description": "A classic favorite.",
+      "imageUrl": "https://media.istockphoto.com/id/1471844577/photo/delicious-double-burger-with-french-fries-and-vegetables-on-wooden-cutting-board.jpg?s=1024x1024&w=is&k=20&c=Ogw96zOARKqnkTeLkiq0hOT96lSJKLOksG3tYjAm4Kw=",
+      "category": "Mexican",
+      "ingredients": [
+        "yogurt",
+        "cream",
+        "tomato",
+        "noodles",
+        "chicken",
+        "cheese",
+        "salt"
+      ],
+      "steps": [
+        "Mix all ingredients together.",
+        "Add tomatoes and cook till soft.",
+        "Cook until golden brown.",
+        "Heat oil in a pan and add onions.",
+        "Garnish and serve hot."
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Pasta Alfredo",
+      "description": "Loved by everyone.",
+      "imageUrl": "https://media.istockphoto.com/id/1181456803/photo/creamy-spaghetti-with-mushroom-creamy-pasta-with-mushroom-spaghetti-pasta-and-mushroom.jpg?s=1024x1024&w=is&k=20&c=44ydhgpx7fydEjlouflrt6vShY34KitBYepivNt0PRU=",
+      "category": "Indian",
+      "ingredients": [
+        "pepper",
+        "butter",
+        "spices",
+        "bread",
+        "vegetables",
+        "tomato",
+        "onion"
+      ],
+      "steps": [
+        "Marinate the main ingredient with spices.",
+        "Add tomatoes and cook till soft.",
+        "Mix all ingredients together.",
+        "Let it simmer for 15 minutes.",
+        "Garnish and serve hot."
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Veg Fried Rice",
+      "description": "Easy to make and tasty.",
+      "imageUrl": "https://media.istockphoto.com/id/1292617507/photo/tasty-veg-schezwan-fried-rice-served-in-bowl-over-a-rustic-wooden-background-indian-cuisine.jpg?s=1024x1024&w=is&k=20&c=60YzuiCFBz2QB7mser7keOO7Z4LsBNHFsKkLy_TyRNY=",
+      "category": "Chinese",
+      "ingredients": [
+        "oil",
+        "chicken",
+        "butter",
+        "tomato",
+        "garlic",
+        "onion",
+        "pepper",
+        "paneer"
+      ],
+      "steps": [
+        "Marinate the main ingredient with spices.",
+        "Heat oil in a pan and add onions.",
+        "Garnish and serve hot.",
+        "Add tomatoes and cook till soft.",
+        "Let it simmer for 15 minutes."
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Manchurian",
+      "description": "Rich in taste and perfect for dinner.",
+      "imageUrl": "https://media.istockphoto.com/id/2204824949/photo/vegetable-manchurian-is-a-spicy-indo-chinese-dish-featuring-deep-fried-vegetable-balls-tossed.jpg?s=1024x1024&w=is&k=20&c=UFKL8XFHQb7bL7_kT7boDACCaE8irifEcP1FCOxmVsU=",
+      "category": "Italian",
+      "ingredients": [
+        "bread",
+        "sauce",
+        "tomato",
+        "noodles",
+        "cheese",
+        "butter",
+        "paneer",
+        "chicken",
+        "lemon"
+      ],
+      "steps": [
+        "Marinate the main ingredient with spices.",
+        "Chop the vegetables finely.",
+        "Let it simmer for 15 minutes.",
+        "Add tomatoes and cook till soft.",
+        "Garnish and serve hot."
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Ramen",
+      "description": "Easy to make and tasty.",
+      "imageUrl": "https://media.istockphoto.com/id/697120198/photo/kimchee-ramen.jpg?s=1024x1024&w=is&k=20&c=GvHLHxEsHmG-1gfw-Z4DvHUFiu91Nb-k7j5KhN5NUD0=",
+      "category": "American",
+      "ingredients": [
+        "sauce",
+        "cream",
+        "spices",
+        "rice",
+        "garlic",
+        "bread"
+      ],
+      "steps": [
+        "Add tomatoes and cook till soft.",
+        "Cook until golden brown.",
+        "Garnish and serve hot.",
+        "Let it simmer for 15 minutes.",
+        "Heat oil in a pan and add onions."
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Masala Dosa",
+      "description": "Loved by everyone.",
+      "imageUrl": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Mexican",
+      "ingredients": [
+        "vegetables",
+        "tomato",
+        "cream",
+        "lemon",
+        "rice",
+        "cheese",
+        "paneer"
+      ],
+      "steps": [
+        "Chop the vegetables finely.",
+        "Cook until golden brown.",
+        "Marinate the main ingredient with spices.",
+        "Add tomatoes and cook till soft.",
+        "Heat oil in a pan and add onions."
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Chole Bhature",
+      "description": "A classic favorite.",
+      "imageUrl": "https://media.istockphoto.com/id/2203561604/photo/delicious-food-chole-bhature.jpg?s=1024x1024&w=is&k=20&c=468urZjDSjNHswpODZZJtdPlWGswcCpYl6b6sieKI2E=",
+      "category": "Mexican",
+      "ingredients": [
+        "cream",
+        "bread",
+        "vegetables",
+        "yogurt",
+        "butter",
+        "garlic"
+      ],
+      "steps": [
+        "Let it simmer for 15 minutes.",
+        "Add tomatoes and cook till soft.",
+        "Garnish and serve hot.",
+        "Marinate the main ingredient with spices.",
+        "Cook until golden brown."
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Sushi Rolls",
+      "description": "Ideal for lunch or party.",
+      "imageUrl": "https://media.istockphoto.com/id/2203907253/photo/variety-of-sushi-maki-plate-with-tuna-and-salmon-and-avocado-dynamite-roll-at-asian.jpg?s=1024x1024&w=is&k=20&c=YpG_j9UBzUVDL6TR1i0Pq85tcUUtRZfU4RtRJ9zscPg=",
+      "category": "Italian",
+      "ingredients": [
+        "salt",
+        "vegetables",
+        "rice",
+        "butter",
+        "cheese",
+        "cream",
+        "chicken",
+        "oil",
+        "sauce"
+      ],
+      "steps": [
+        "Garnish and serve hot.",
+        "Add tomatoes and cook till soft.",
+        "Marinate the main ingredient with spices.",
+        "Cook until golden brown.",
+        "Let it simmer for 15 minutes."
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Spring Rolls",
+      "description": "A classic favorite.",
+      "imageUrl": "https://media.istockphoto.com/id/1430066729/photo/fried-spring-rolls-with-sweet-chili-sauce-and-lime-on-plate.jpg?s=1024x1024&w=is&k=20&c=baVWl5-Otku2SkDxHEGoL3G7kR0Tm7zCoy7Ou11_KoA=",
+      "category": "American",
+      "ingredients": [
+        "spices",
+        "bread",
+        "paneer",
+        "onion",
+        "vegetables",
+        "sauce",
+        "butter"
+      ],
+      "steps": [
+        "Chop the vegetables finely.",
+        "Let it simmer for 15 minutes.",
+        "Mix all ingredients together.",
+        "Add tomatoes and cook till soft.",
+        "Marinate the main ingredient with spices."
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Shawarma",
+      "description": "Easy to make and tasty.",
+      "imageUrl": "https://media.istockphoto.com/id/1336420314/photo/shawarma-an-arab-dish-with-meat-cut-into-thin-slices-stacked-in-a-cone-like-shape-and-roasted.jpg?s=1024x1024&w=is&k=20&c=OdueIaANz24q5VMyRDDtl6hRe41ItcDmpJYoRoGNAC4=",
+      "category": "Chinese",
+      "ingredients": [
+        "chicken",
+        "yogurt",
+        "cheese",
+        "butter",
+        "spices",
+        "vegetables",
+        "onion",
+        "noodles"
+      ],
+      "steps": [
+        "Marinate the main ingredient with spices.",
+        "Heat oil in a pan and add onions.",
+        "Mix all ingredients together.",
+        "Garnish and serve hot.",
+        "Add tomatoes and cook till soft."
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Lasagna",
+      "description": "Delicious and flavorful.",
+      "imageUrl": "https://media.istockphoto.com/id/1303741768/photo/italian-lasagna-with-tomato-sauce-and-cheese-served-with-tomatoes-and-spinach-light-concrete.jpg?s=1024x1024&w=is&k=20&c=qVsGH2bIn_r3zOFSH9zOzmjLNiCf8dmYTMpcpHarnYM=",
+      "category": "American",
+      "ingredients": [
+        "cream",
+        "pepper",
+        "salt",
+        "chicken",
+        "vegetables",
+        "cheese",
+        "butter",
+        "oil"
+      ],
+      "steps": [
+        "Let it simmer for 15 minutes.",
+        "Garnish and serve hot.",
+        "Add tomatoes and cook till soft.",
+        "Mix all ingredients together.",
+        "Chop the vegetables finely."
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Tom Yum Soup",
+      "description": "Delicious and flavorful.",
+      "imageUrl": "https://media.istockphoto.com/id/1172903419/photo/thailands-famous-rich-red-coconut-milk-based-delicious-tom-yam-kung-soup-in-a-bowl-on-an.jpg?s=1024x1024&w=is&k=20&c=zmZAe6Xiz63FQPH-_yZBIx7sF7hpJVZKUbSpG-f3d5M=",
+      "category": "American",
+      "ingredients": [
+        "cream",
+        "noodles",
+        "vegetables",
+        "yogurt",
+        "butter",
+        "bread"
+      ],
+      "steps": [
+        "Chop the vegetables finely.",
+        "Cook until golden brown.",
+        "Garnish and serve hot.",
+        "Mix all ingredients together.",
+        "Add tomatoes and cook till soft."
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Fish Curry",
+      "description": "Loved by everyone.",
+      "imageUrl": "https://media.istockphoto.com/id/1091567206/photo/srilanka-spicy-fish-curry.jpg?s=1024x1024&w=is&k=20&c=Sj26Nq5Z2iVDN7xdglA4-HGd7sn4MNlbsUZyDM8K3Fc=",
+      "category": "Italian",
+      "ingredients": [
+        "rice",
+        "bread",
+        "vegetables",
+        "salt",
+        "oil",
+        "lemon",
+        "butter",
+        "spices"
+      ],
+      "steps": [
+        "Chop the vegetables finely.",
+        "Heat oil in a pan and add onions.",
+        "Cook until golden brown.",
+        "Mix all ingredients together.",
+        "Marinate the main ingredient with spices."
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Falafel Wrap",
+      "description": "A classic favorite.",
+      "imageUrl": "https://media.istockphoto.com/id/1139093193/photo/tortilla-wrap-with-falafel-and-fresh-salad-vegan-tacos-vegetarian-healthy-food.jpg?s=1024x1024&w=is&k=20&c=Ni1OvClIJ1qnEeCswj_1TeHV0or58P73pgkwIw6hsFo=",
+      "category": "Chinese",
+      "ingredients": [
+        "oil",
+        "tomato",
+        "spices",
+        "lemon",
+        "noodles",
+        "vegetables"
+      ],
+      "steps": [
+        "Add tomatoes and cook till soft.",
+        "Heat oil in a pan and add onions.",
+        "Let it simmer for 15 minutes.",
+        "Cook until golden brown.",
+        "Garnish and serve hot."
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Aloo Paratha",
+      "description": "Easy to make and tasty.",
+      "imageUrl": "https://media.istockphoto.com/id/1279134709/photo/image-of-metal-tray-with-aloo-paratha-pile-topped-with-red-onion-rings-and-sprinkle-of.jpg?s=1024x1024&w=is&k=20&c=UFLE_PNGPe83flTXa-r-ZnIxysesQZk5cxlUkq3H1o0=",
+      "category": "Italian",
+      "ingredients": [
+        "sauce",
+        "tomato",
+        "bread",
+        "spices",
+        "pepper",
+        "cream"
+      ],
+      "steps": [
+        "Garnish and serve hot.",
+        "Heat oil in a pan and add onions.",
+        "Add tomatoes and cook till soft.",
+        "Cook until golden brown.",
+        "Let it simmer for 15 minutes."
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Chicken Wings",
+      "description": "Delicious and flavorful.",
+      "imageUrl": "https://media.istockphoto.com/id/1451323978/photo/baked-chicken-wings-with-sweet-chili-sauce-in-a-plate-black-background-top-view.jpg?s=1024x1024&w=is&k=20&c=84itiXfZjYDXiTRbYNcs7clY8UaBca1av2FMvl3T6jU=",
+      "category": "Thai",
+      "ingredients": [
+        "butter",
+        "onion",
+        "noodles",
+        "vegetables",
+        "spices",
+        "rice"
+      ],
+      "steps": [
+        "Chop the vegetables finely.",
+        "Mix all ingredients together.",
+        "Let it simmer for 15 minutes.",
+        "Cook until golden brown.",
+        "Marinate the main ingredient with spices."
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Pav Bhaji",
+      "description": "Easy to make and tasty.",
+      "imageUrl": "https://media.istockphoto.com/id/1327433011/photo/pav-bhaji-indian-street-food-bharuch-gujarat-india.jpg?s=1024x1024&w=is&k=20&c=yqNWDvfbfgglUykVFxIZlz3iftt8Em8cA3BSuKoAyV4=",
+      "category": "Mexican",
+      "ingredients": [
+        "butter",
+        "garlic",
+        "rice",
+        "bread",
+        "oil",
+        "chicken",
+        "noodles",
+        "lemon",
+        "pepper"
+      ],
+      "steps": [
+        "Cook until golden brown.",
+        "Mix all ingredients together.",
+        "Heat oil in a pan and add onions.",
+        "Marinate the main ingredient with spices.",
+        "Add tomatoes and cook till soft."
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Caesar Salad",
+      "description": "Delicious and flavorful.",
+      "imageUrl": "https://media.istockphoto.com/id/1338803225/photo/chicken-caesar-salad-with-the-classic-dressing-being-poured-and-croutons.jpg?s=1024x1024&w=is&k=20&c=sZd-Pd8lfnzN9gqZr6yi7GIjTu5Veif--VsRawe1e_I=",
+      "category": "Thai",
+      "ingredients": [
+        "cheese",
+        "pepper",
+        "bread",
+        "sauce",
+        "oil",
+        "rice"
+      ],
+      "steps": [
+        "Let it simmer for 15 minutes.",
+        "Cook until golden brown.",
+        "Mix all ingredients together.",
+        "Heat oil in a pan and add onions.",
+        "Chop the vegetables finely."
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Grilled Sandwich",
+      "description": "Rich in taste and perfect for dinner.",
+      "imageUrl": "https://media.istockphoto.com/id/692221258/photo/panini-with-tomato-pesto-and-mozzarella.jpg?s=1024x1024&w=is&k=20&c=zAiqB19V2OfwMdAjegtoHG4LjD4cDhVMnoxDE0EbWjc=",
+      "category": "Italian",
+      "ingredients": [
+        "butter",
+        "onion",
+        "noodles",
+        "cream",
+        "pepper",
+        "chicken",
+        "vegetables",
+        "paneer",
+        "spices"
+      ],
+      "steps": [
+        "Heat oil in a pan and add onions.",
+        "Let it simmer for 15 minutes.",
+        "Cook until golden brown.",
+        "Garnish and serve hot.",
+        "Marinate the main ingredient with spices."
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Veg Pulao",
+      "description": "Easy to make and tasty.",
+      "imageUrl": "https://media.istockphoto.com/id/2212836819/photo/indian-veg-biryani-veg-pulav-indian-vegetable-pulav-biriyani-vegetable-biriyani-served-in-a.jpg?s=1024x1024&w=is&k=20&c=csRuG2qb6UYNd7NQEDAe_T2xZw7hgRkHa2OQIsoE0aM=",
+      "category": "Indian",
+      "ingredients": [
+        "paneer",
+        "spices",
+        "onion",
+        "chicken",
+        "rice",
+        "salt",
+        "oil",
+        "tomato"
+      ],
+      "steps": [
+        "Marinate the main ingredient with spices.",
+        "Cook until golden brown.",
+        "Heat oil in a pan and add onions.",
+        "Add tomatoes and cook till soft.",
+        "Chop the vegetables finely."
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Pesto Pasta",
+      "description": "Loved by everyone.",
+      "imageUrl": "https://media.istockphoto.com/id/1353758538/photo/image-of-metal-fork-twirling-pesto-spaghetti-held-in-hand-of-unrecognisable-person-pasta.jpg?s=1024x1024&w=is&k=20&c=AX3Nf2JjK85vzl3sMlYuM0H0efZBxol7xHO8ygmgS1w=",
+      "category": "Thai",
+      "ingredients": [
+        "salt",
+        "tomato",
+        "cream",
+        "paneer",
+        "yogurt",
+        "spices",
+        "lemon",
+        "sauce"
+      ],
+      "steps": [
+        "Garnish and serve hot.",
+        "Heat oil in a pan and add onions.",
+        "Add tomatoes and cook till soft.",
+        "Let it simmer for 15 minutes.",
+        "Marinate the main ingredient with spices."
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Dal Makhani",
+      "description": "Delicious and flavorful.",
+      "imageUrl": "https://media.istockphoto.com/id/1170374719/photo/dal-makhani-at-dark-background.jpg?s=1024x1024&w=is&k=20&c=FVifOSqCkW0GdMqUmgddvJ6xKd4F6touOC4gVfrVT5c=",
+      "category": "Thai",
+      "ingredients": [
+        "cream",
+        "cheese",
+        "pepper",
+        "noodles",
+        "oil",
+        "chicken",
+        "rice",
+        "butter"
+      ],
+      "steps": [
+        "Cook until golden brown.",
+        "Garnish and serve hot.",
+        "Mix all ingredients together.",
+        "Add tomatoes and cook till soft.",
+        "Marinate the main ingredient with spices."
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Hot and Sour Soup",
+      "description": "Delicious and flavorful.",
+      "imageUrl": "https://images.unsplash.com/photo-1635315323938-4ef384d94a22?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Indian",
+      "ingredients": [
+        "lemon",
+        "rice",
+        "garlic",
+        "tomato",
+        "yogurt",
+        "salt"
+      ],
+      "steps": [
+        "Cook until golden brown.",
+        "Add tomatoes and cook till soft.",
+        "Heat oil in a pan and add onions.",
+        "Marinate the main ingredient with spices.",
+        "Chop the vegetables finely."
+      ]
+    },
+    {
+      "id": 33,
+      "title": "BBQ Chicken",
+      "description": "Ideal for lunch or party.",
+      "imageUrl": "https://media.istockphoto.com/id/157526986/photo/roast-chicken-on-the-bbq.jpg?s=1024x1024&w=is&k=20&c=MxRpVqJ3QpOdW0uYrWyRdSyEleUseG0EP2sa2Mi_YZE=",
+      "category": "Chinese",
+      "ingredients": [
+        "noodles",
+        "paneer",
+        "onion",
+        "butter",
+        "spices",
+        "salt",
+        "sauce"
+      ],
+      "steps": [
+        "Let it simmer for 15 minutes.",
+        "Mix all ingredients together.",
+        "Heat oil in a pan and add onions.",
+        "Garnish and serve hot.",
+        "Chop the vegetables finely."
+      ]
+    }
+  ]
+}

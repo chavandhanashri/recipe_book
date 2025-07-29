@@ -1,0 +1,28 @@
+<div *ngIf="recipes" class="recipe-detail container mt-5 mb-5">
+  <h2 class="recipe-title">{{ recipes.title }}</h2>
+
+  <img
+    [src]="recipes.imageUrl"
+    alt="{{ recipes.title }}"
+    class="img-fluid recipe-img mb-4"
+  />
+
+  <p class="recipe-description">{{ recipes.description }}</p>
+
+  <h4>🧂 Ingredients</h4>
+  <ul class="list-group mb-4">
+    <li class="list-group-item" *ngFor="let ing of recipes.ingredients">
+      {{ ing }}
+    </li>
+  </ul>
+
+  <h4>👨‍🍳 Steps</h4>
+  <ol class="list-group list-group-numbered mb-4">
+    <li class="list-group-item" *ngFor="let step of recipes.steps">
+      {{ step }}
+    </li>
+  </ol>
+
+  <a routerLink="/" class="btn btn-outline-primary">⬅ Back to Recipes</a>
+</div>
+
